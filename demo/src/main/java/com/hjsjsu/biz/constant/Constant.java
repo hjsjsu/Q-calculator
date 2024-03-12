@@ -1,4 +1,4 @@
-package cn.qmai.discount.demo.biz.constant;
+package com.hjsjsu.biz.constant;
 
 public class Constant {
 
