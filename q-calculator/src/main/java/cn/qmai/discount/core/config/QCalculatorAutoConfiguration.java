@@ -1,9 +1,9 @@
 package cn.qmai.discount.core.config;
 
 import org.springframework.context.annotation.ComponentScan;
-import org.springframework.stereotype.Component;
+import org.springframework.context.annotation.Configuration;
 
-@Component
+@Configuration
 @ComponentScan(basePackages = "cn.qmai.discount.core")
 public class QCalculatorAutoConfiguration {
 
